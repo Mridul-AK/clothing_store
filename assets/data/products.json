@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Raglan Henley Tee",
+      "subtitle": "Slim-fit long sleeve with a three-button placket",
+      "price": 22.30,
+      "image_url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+      "category": "Men"
+    },
+    {
+      "id": 2,
+      "name": "Field Cotton Jacket",
+      "subtitle": "Lightweight outer layer for spring and autumn",
+      "price": 55.99,
+      "image_url": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+      "category": "Men"
+    },
+    {
+      "id": 3,
+      "name": "Everyday Slim Shirt",
+      "subtitle": "Soft cotton shirt cut close to the body",
+      "price": 15.99,
+      "image_url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+      "category": "Men"
+    },
+    {
+      "id": 4,
+      "name": "Alpine 3-in-1 Coat",
+      "subtitle": "Waterproof shell with a detachable fleece liner",
+      "price": 56.99,
+      "image_url": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+      "category": "Women"
+    },
+    {
+      "id": 5,
+      "name": "Hooded Biker Jacket",
+      "subtitle": "Faux leather with a removable jersey hood",
+      "price": 29.95,
+      "image_url": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+      "category": "Women"
+    },
+    {
+      "id": 6,
+      "name": "Striped Rain Jacket",
+      "subtitle": "Windbreaker with a drawstring waist and hood",
+      "price": 39.99,
+      "image_url": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+      "category": "Women"
+    },
+    {
+      "id": 7,
+      "name": "Boat Neck Ribbed Top",
+      "subtitle": "Stretch rayon blend with short sleeves",
+      "price": 9.85,
+      "image_url": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+      "category": "Women"
+    },
+    {
+      "id": 8,
+      "name": "Breathable Sport Tee",
+      "subtitle": "Moisture-wicking V-neck for training days",
+      "price": 7.95,
+      "image_url": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+      "category": "Women"
+    },
+    {
+      "id": 9,
+      "name": "Casual Print Tee",
+      "subtitle": "Relaxed cotton tee with a printed front",
+      "price": 12.99,
+      "image_url": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+      "category": "Women"
+    },
+    {
+      "id": 10,
+      "name": "Classic Plaid Shirt",
+      "subtitle": "Brushed cotton flannel with a button-down front",
+      "price": 34.99,
+      "image_url": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+      "category": "Men"
+    }
+  ]
+}
